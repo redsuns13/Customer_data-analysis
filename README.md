@@ -44,39 +44,8 @@ Key insights from the analysis:
 Insight 1: [e.g., Region X contributes 35% of total revenue.]
 Insight 2: [e.g., Sales peak in Q4, driven by Category Y.]
 Insight 3: [e.g., Discounts above 20% reduce profit margins significantly.]
-Recommendations:
-[e.g., Focus marketing spend on top-performing regions.]
-[e.g., Review discount strategy for low-margin products.]
-▶ How to Run
-1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-2. Install dependencies
-pip install -r requirements.txt
-3. Run the Python analysis
-Open and run the notebook:
-jupyter notebook notebooks/analysis.ipynb
-4. Run the SQL queries
-Create a database in PostgreSQL / MySQL / SQL Server.
-Import the cleaned data from 
-data/cleaned_data.csv 
-.
-Execute the scripts in the 
-sql/
- folder.
-5. Open the dashboard
-Open 
-dashboard/project_dashboard.pbix
- in Power BI Desktop.
-Update the data source path if needed, then click Refresh.
-📁 Project Structure
-├── data/              # Raw and cleaned datasets
-├── notebooks/         # Python EDA and cleaning
-├── sql/               # SQL queries
-├── dashboard/         # Power BI file (.pbix)
-├── report/            # Final report (PDF/Word)
-├── presentation/      # Gamma slide deck (link/export)
-├── images/            # Screenshots
+
+
 └── README.md
    a.rahmansajid13@gmail.com
 LinkedIn | 
