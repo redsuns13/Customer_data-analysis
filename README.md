@@ -78,6 +78,6 @@ Update the data source path if needed, then click Refresh.
 ├── presentation/      # Gamma slide deck (link/export)
 ├── images/            # Screenshots
 └── README.md
-your.email@example.com
+   a.rahmansajid13@gmail.com
 LinkedIn | 
 Portfolio
