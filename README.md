@@ -1,5 +1,5 @@
 # Customer_data-analysis
-data analytics project showcasing customer behavior analysis using python, sql and power Bi
+Data analytics project showcasing customer behavior analysis using python, sql and power Bi
 📊 [Project Title]: End-to-End Data Analytics Project
 Turning raw data into business insights using Python, SQL, Power BI, and Gamma.
 📌 Overview
